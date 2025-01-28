@@ -1,3 +1,3 @@
 # HOMEWORK1
-# Hello Professor
-# This is rukhmanand reddy
+## Hello Professor
+### This is rukhmanand reddy
